@@ -1,7 +1,3 @@
-# Welcome to Your Miaoda Project
-Miaoda Application Link URL
-    URL:https://medo.dev/projects/app-8avkpm7095hd
-
 # Canteen Manager Dashboard
 
 A Python Flask application for canteen managers to view and manage student orders.
